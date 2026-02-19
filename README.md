@@ -1,84 +1,189 @@
-<h1 align="center">Hi 👋, I'm Abdelaziz</h1>
-<h3 align="center">A passionate full-stack web developer from Algeria</h3>
+# Said Abdelaziz | Full-Stack Developer & Tech Entrepreneur
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdelaziz--portfolio.vercel.app-blue?style=flat-square)](https://abdelaziz-portfolio-vercel.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-said--abd--el--aziz-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/said-abd-el-aziz)
+[![Email](https://img.shields.io/badge/Email-said.abd.el.aziz.cs%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:said.abd.el.aziz.cs@gmail.com)
+
+---
+
+## 👨‍💻 About Me
+
+**Full-stack developer** combining **5+ years commercial operations leadership** with proven technical execution. Winner of Algeria's national Eco Hackathon (38 competing teams) and top performer in Code213 Bootcamp (98.5/100). Building technology solutions that solve real business problems in emerging markets.
+
+**Current Focus:**
+- 🚀 Launching tech ventures in Algeria (e-commerce, circular economy platforms)
+- 💼 Leading sales & tech operations at family business (B2B industrial distribution)
+- 🎓 Pursuing MSc Entrepreneurship & Innovation (UK universities)
+
+**What Makes Me Different:**
+I don't just build software—I build **revenue-generating systems**. My background in commercial operations means I understand unit economics, customer acquisition costs, and operational cash flow. I architect platforms that balance technical feasibility with business viability.
+
+---
+
+## 🏆 Notable Achievements
+
+### **🥇 1st Place - National Eco Hackathon 2026**
+**GREEN LOOP Platform** | Circular Economy Marketplace  
+Defeated 38 teams with a three-sided marketplace connecting restaurants, logistics providers, and farms to monetize organic waste. Won based on **business model clarity and commercial viability**, not just technical sophistication.
+
+**Tech Stack:** React.js, Node.js, MongoDB, Express.js  
+**Key Insight:** Judges (investors & entrepreneurs) chose us because we presented **unit economics and market validation**, not feature lists.
+
+### **📊 Top Performer - Code213 Bootcamp**
+**98.5/100 Ranking** among 47 participants in intensive 6-month MERN stack program  
+Completed while managing 5-person sales team and finishing bachelor's degree.
+
+### **💼 5+ Years Commercial Leadership**
+**Team Lead, Lumatex2000** (Electrical Components Distribution)  
+Managed multi-location B2B sales operations, supplier negotiations, pricing strategy, and inventory management for construction and energy sector clients.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### **Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### **🛒 Multi-Vendor E-Commerce Platform**
+**Laravel 10 | MySQL | Payment Gateway Integration**
+
+Built scalable marketplace infrastructure for Algerian small retailers supporting 500+ products across multiple vendors. Reduced vendor onboarding time significantly through automated registration workflows and optimized database architecture.
+
+**Key Features:**
+- Role-based access system (Admin, Vendor, Customer)
+- Secure payment processing with transaction logging
+- Real-time inventory management
+- RESTful API for future mobile scalability
+
+**Business Context:** Designed based on real operational pain points witnessed through family business experience—vendors struggling with manual onboarding processes and disconnected inventory systems.
+
+[View Project →](https://github.com/x-aziz)
+
+---
+
+### **♻️ GREEN LOOP - Circular Economy Platform**
+**React.js | Node.js | MongoDB | Express.js**
+
+**🏆 1st Place Winner - National Eco Hackathon 2026**
+
+Three-sided marketplace connecting restaurants, logistics providers, and farms to monetize organic waste as agricultural fertilizer. Won first place among 38 teams judged by investors and entrepreneurs.
+
+**Business Model Innovation:**
+- Multi-stakeholder value creation (restaurants reduce costs, logistics earn fees, farms get fertilizer)
+- Designed logistics optimization algorithm projecting 30% waste-to-fertilizer conversion efficiency
+- Potential to divert 3.9M tons from Algeria's 13M-ton annual organic waste stream
+
+**Why We Won:** Focused on **unit economics and commercial viability** over technical complexity. Judges valued business model clarity more than feature sophistication.
+
+[View Demo →](https://github.com/x-aziz)
+
+---
+
+### **🍽️ PIRIMI - Food Waste Reduction Platform**
+**MERN Stack (MongoDB, Express.js, React.js, Node.js)**
+
+Marketplace connecting Algerian retailers selling near-expiry products with price-conscious consumers and charitable associations. Currently conducting user validation with 15+ shop owners to refine commission-based revenue model.
+
+**Problem Solved:** Algeria wastes $4B annually in food while consumers face affordability challenges. PIRIMI creates win-win: retailers monetize otherwise-lost inventory, consumers access affordable food, associations receive donations.
+
+**Status:** MVP development, launching pilots Q2 2026
+
+[View Project →](https://github.com/x-aziz)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=x-aziz&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-aziz&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
 </div>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=x-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="x-aziz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x-aziz" alt="x-aziz" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/x_azizsaid3" target="blank"><img src="https://img.shields.io/twitter/follow/x_azizsaid3?logo=twitter&style=for-the-badge" alt="x_azizsaid3" /></a> </p>
-
-- 🔭 I’m currently working on [Multi-vendor e-commernce](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- 🌱 I’m currently learning **clean code,some advanced framworks**
-
-- 👯 I’m looking to collaborate on [jumia company](jumia.com)
-
-- 🤝 I’m looking for help with [Multi-vendor e-commernce](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/x-aziz](https://github.com/x-aziz)
-
-- 📝 I regularly write articles on [Multi-vendor e-commerce platform](Multi-vendor e-commerce platform)
-
-- 💬 Ask me about **react, nextjs , jQuery**
-
-- 📫 How to reach me **said.abd.el.aziz.cs**
-
-- 📄 Know about my experiences [myresume.com](myresume.com)
-
-- ⚡ Fun fact **i think i'm funny**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@aziz-said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@aziz-said" height="30" width="40" /></a>
-<a href="https://dev.to/@saidaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@saidaziz" height="30" width="40" /></a>
-<a href="https://twitter.com/x_azizsaid3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x_azizsaid3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/said-abdelaziz-238986302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="said-abdelaziz-238986302" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/@aziz-said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@aziz-said" height="30" width="40" /></a>
-<a href="https://kaggle.com/@aziz-said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="@aziz-said" height="30" width="40" /></a>
-<a href="https://fb.com/aziz sidou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aziz sidou" height="30" width="40" /></a>
-<a href="https://instagram.com/@x_aziz_said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@x_aziz_said" height="30" width="40" /></a>
-<a href="https://medium.com/@saidaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@saidaziz" height="30" width="40" /></a>
-<a href="https://discord.gg/aziz0272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aziz0272" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-
-
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-aziz&" alt="x-aziz" /></p>
-
-
-
-
-
-
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-aziz&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🎯 What I'm Working On
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+**Current Projects:**
+- 🚀 **HydraSense Platform:** B2B water optimization solution for Algerian industrial clients (H2O Challenge submission)
+- 📱 **PIRIMI MVP:** Food waste reduction marketplace (launching pilots)
+- 📚 **MSc Applications:** Entrepreneurship & Innovation programs at UK universities
 
-###
+**Learning:**
+- Advanced system architecture for scalable platforms
+- Unit economics and venture financing
+- Go-to-market strategies for emerging markets
+
+---
+
+## 💡 Professional Philosophy
+
+> **"I build technology solutions grounded in actual market needs and revenue generation, not theoretical applications."**
+
+My approach combines:
+- ✅ **Technical execution capability** (MERN/Laravel expertise, rapid prototyping)
+- ✅ **Commercial awareness** (5+ years B2B operations, supplier negotiations, pricing strategy)
+- ✅ **Entrepreneurial validation** (competition wins, pilot traction, market testing)
+
+I don't just ask "Can we build this?" I ask "**Will customers pay for this, and can we deliver it profitably?**"
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in:
+- 🚀 **Startup collaboration** (co-founders, technical advisors, pilot partners)
+- 💼 **B2B SaaS projects** (e-commerce, logistics, industrial optimization)
+- 🌍 **Emerging market technology ventures** (Algeria, North Africa, frontier markets)
+- 🎓 **Entrepreneurship programs** (accelerators, competitions, mentorship)
+
+**Reach me:**
+- 📧 Email: [said.abd.el.aziz.cs@gmail.com](mailto:said.abd.el.aziz.cs@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/said-abd-el-aziz](https://linkedin.com/in/said-abd-el-aziz)
+- 🌐 Portfolio: [abdelaziz-portfolio.vercel.app](https://abdelaziz-portfolio-vercel.vercel.app)
+- 🐦 Twitter: [@x_azizsaid3](https://twitter.com/x_azizsaid3)
+
+---
+
+## 📈 Visitor Count
+
+![Profile Views](https://komarev.com/ghpvc/?username=x-aziz&color=0e75b6&style=flat-square)
+
+---
+
+<div align="center">
+  <i>Building the infrastructure for a more efficient economy—one platform at a time.</i>
+</div>
