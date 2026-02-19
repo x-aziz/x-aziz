@@ -125,12 +125,8 @@ Marketplace connecting Algerian retailers selling near-expiry products with pric
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-aziz&show_icons=true&theme=dark&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-aziz&theme=dark&hide_border=true" height="170" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-aziz&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 ---
