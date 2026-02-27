@@ -13,7 +13,6 @@
 **Current Focus:**
 - 🚀 Launching tech ventures in Algeria (e-commerce, circular economy platforms)
 - 💼 Leading sales & tech operations at family business (B2B industrial distribution)
-- 🎓 Pursuing MSc Entrepreneurship & Innovation (UK universities)
 
 **What Makes Me Different:**
 I don't just build software—I build **revenue-generating systems**. My background in commercial operations means I understand unit economics, customer acquisition costs, and operational cash flow. I architect platforms that balance technical feasibility with business viability.
