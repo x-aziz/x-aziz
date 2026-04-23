@@ -29,7 +29,7 @@ Defeated 38 teams with a three-sided marketplace connecting restaurants, logisti
 **Key Insight:** Judges (investors & entrepreneurs) chose us because we presented **unit economics and market validation**, not feature lists.
 
 ### **📊 Top Performer - Code213 Bootcamp**
-**98.5/100 Ranking** among 47 participants in intensive 6-month MERN stack program  
+**98.5/100 Ranking**  in intensive 6-month MERN stack program  
 Completed while managing 5-person sales team and finishing bachelor's degree.
 
 ### **💼 5+ Years Commercial Leadership**
