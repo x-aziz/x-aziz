@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-**Full-stack developer** combining **5+ years commercial operations leadership** with proven technical execution. Winner of Algeria's national Eco Hackathon (38 competing teams) and top performer in Code213 Bootcamp (98.5/100). Building technology solutions that solve real business problems in emerging markets.
+**Full-stack developer** combining **5+ years commercial operations ** with proven technical execution. Winner of Algeria's  Eco Hackathon (38 competing teams) and top performer in Code213 Bootcamp (98.5/100). Building technology solutions that solve real business problems in emerging markets.
 
 **Current Focus:**
 - 🚀 Launching tech ventures in Algeria (e-commerce, circular economy platforms)
@@ -21,7 +21,7 @@ I don't just build software—I build **revenue-generating systems**. My backgro
 
 ## 🏆 Notable Achievements
 
-### **🥇 1st Place - National Eco Hackathon 2026**
+### **🥇 1st Place - Eco Hackathon 2026**
 **GREEN LOOP Platform** | Circular Economy Marketplace  
 Defeated 38 teams with a three-sided marketplace connecting restaurants, logistics providers, and farms to monetize organic waste. Won based on **business model clarity and commercial viability**, not just technical sophistication.
 
@@ -32,9 +32,9 @@ Defeated 38 teams with a three-sided marketplace connecting restaurants, logisti
 **98.5/100 Ranking**  in intensive 6-month MERN stack program  
 Completed while managing 5-person sales team and finishing bachelor's degree.
 
-### **💼 5+ Years Commercial Leadership**
+### **💼 5+ Years Commercial**
 **Team Lead, Lumatex2000** (Electrical Components Distribution)  
-Managed multi-location B2B sales operations, supplier negotiations, pricing strategy, and inventory management for construction and energy sector clients.
+Managed multi-location B2C sales operations, supplier negotiations, pricing strategy, and inventory management for construction and energy sector clients.
 
 ---
 
@@ -93,7 +93,7 @@ Built scalable marketplace infrastructure for Algerian small retailers supportin
 ### **♻️ GREEN LOOP - Circular Economy Platform**
 **React.js | Node.js | MongoDB | Express.js**
 
-**🏆 1st Place Winner - National Eco Hackathon 2026**
+**🏆 1st Place Winner - Eco Hackathon 2026**
 
 Three-sided marketplace connecting restaurants, logistics providers, and farms to monetize organic waste as agricultural fertilizer. Won first place among 38 teams judged by investors and entrepreneurs.
 
@@ -113,7 +113,7 @@ Three-sided marketplace connecting restaurants, logistics providers, and farms t
 
 Marketplace connecting Algerian retailers selling near-expiry products with price-conscious consumers and charitable associations. Currently conducting user validation with 15+ shop owners to refine commission-based revenue model.
 
-**Problem Solved:** Algeria wastes $4B annually in food while consumers face affordability challenges. PIRIMI creates win-win: retailers monetize otherwise-lost inventory, consumers access affordable food, associations receive donations.
+**Problem Solved:** Algeria wastes $1B annually in food while consumers face affordability challenges. PIRIMI creates win-win: retailers monetize otherwise-lost inventory, consumers access affordable food, associations receive donations.
 
 **Status:** MVP development, launching pilots Q2 2026
 
@@ -138,7 +138,7 @@ Marketplace connecting Algerian retailers selling near-expiry products with pric
 - 📚 **MSc Applications:** Entrepreneurship & Innovation programs at UK universities
 
 **Learning:**
-- Advanced system architecture for scalable platforms
+ system architecture for scalable platforms
 - Unit economics and venture financing
 - Go-to-market strategies for emerging markets
 
@@ -161,7 +161,7 @@ I don't just ask "Can we build this?" I ask "**Will customers pay for this, and 
 
 I'm interested in:
 - 🚀 **Startup collaboration** (co-founders, technical advisors, pilot partners)
-- 💼 **B2B SaaS projects** (e-commerce, logistics, industrial optimization)
+- 💼 **B2B&B2C SaaS projects** (e-commerce, logistics, industrial optimization)
 - 🌍 **Emerging market technology ventures** (Algeria, North Africa, frontier markets)
 - 🎓 **Entrepreneurship programs** (accelerators, competitions, mentorship)
 
