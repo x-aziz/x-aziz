@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-**Full-stack developer** combining **5+ years commercial operations ** with proven technical execution. Winner of Algeria's  Eco Hackathon (38 competing teams) and top performer in Code213 Bootcamp (98.5/100). Building technology solutions that solve real business problems in emerging markets.
+**Full-stack developer** combining 5+ years commercial operations  with proven technical execution. Winner of Algeria's  Eco Hackathon (38 competing teams) and top performer in Code213 Bootcamp (98.5/100). Building technology solutions that solve real business problems in emerging markets.
 
 **Current Focus:**
 - 🚀 Launching tech ventures in Algeria (e-commerce, circular economy platforms)
