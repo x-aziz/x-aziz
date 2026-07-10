@@ -12,7 +12,7 @@
 
 **Current Focus:**
 - 🚀 Launching tech ventures in Algeria (e-commerce, circular economy platforms)
-- 💼 Leading sales & tech operations at family business (B2B industrial distribution)
+- 💼 Leading sales & tech operations at   business (B2B industrial distribution)
 
 **What Makes Me Different:**
 I don't just build software—I build **revenue-generating systems**. My background in commercial operations means I understand unit economics, customer acquisition costs, and operational cash flow. I architect platforms that balance technical feasibility with business viability.
@@ -84,7 +84,7 @@ Built scalable marketplace infrastructure for Algerian small retailers supportin
 - Real-time inventory management
 - RESTful API for future mobile scalability
 
-**Business Context:** Designed based on real operational pain points witnessed through family business experience—vendors struggling with manual onboarding processes and disconnected inventory systems.
+**Business Context:** Designed based on real operational pain points witnessed through   business experience—vendors struggling with manual onboarding processes and disconnected inventory systems.
 
 [View Project →](https://github.com/x-aziz)
 
